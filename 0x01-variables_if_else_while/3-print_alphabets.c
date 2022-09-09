@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <unistd.h>
-#include <stdlib.h>
 /**
  * main - Entry point
  * Description: prints alphabet in lowercase then uppercase
