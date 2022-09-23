@@ -1,1 +1,1 @@
-Mozart composed his music not for the elite, but for everybody
+Write a function that encodes a string using rot13.
