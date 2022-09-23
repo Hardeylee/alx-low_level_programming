@@ -1,1 +1,1 @@
-Write a function that capitalizes all words of a string.
+Mozart composed his music not for the elite, but for everybody
